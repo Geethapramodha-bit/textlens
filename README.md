@@ -30,3 +30,29 @@ This is just the beginning. I’ll continue building small NLP projects covering
 **Tech:** Python | NLP | Text Processing
 
 #NLP #NaturalLanguageProcessing #Python #MachineLearning #AI #LearningInPublic
+
+## StemLab
+
+A mini NLP project that compares different language normalization techniques.
+
+### Features
+
+- Tokenization
+- Stemming
+- Lemmatization
+- POS tagging
+
+### Example
+
+| Word | Stemmed | Lemmatized |
+| --- | --- | --- |
+| studying | studi | study |
+| techniques | techniqu | technique |
+| models | model | model |
+
+### Concepts Practiced
+
+- Text normalization
+- Porter Stemmer
+- WordNet Lemmatizer
+- POS tagging
