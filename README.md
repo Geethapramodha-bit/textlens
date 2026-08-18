@@ -31,7 +31,7 @@ This is just the beginning. I’ll continue building small NLP projects covering
 
 #NLP #NaturalLanguageProcessing #Python #MachineLearning #AI #LearningInPublic
 
-## StemLab
+Day-2 ## StemLab
 
 A mini NLP project that compares different language normalization techniques.
 
@@ -56,3 +56,38 @@ A mini NLP project that compares different language normalization techniques.
 - Porter Stemmer
 - WordNet Lemmatizer
 - POS tagging
+
+- ## Day 3: RegexLab
+
+A rule-based NLP project for extracting structured information from unstructured text using regular expressions.
+
+### Features
+
+- Email extraction
+- Date extraction
+- Phone number extraction
+- Pattern matching
+
+### Example Input
+
+Contact Geetha at geetha.reddy@gmail.com before 20/08/2026.
+
+Call 9876543210.
+
+### Example Output
+
+Emails:
+['geetha.reddy@gmail.com']
+
+Dates:
+['20/08/2026']
+
+Phone Numbers:
+['9876543210']
+
+### Concepts Practiced
+
+- Regular expressions
+- `re.findall()`
+- Information extraction
+- Pattern matching
