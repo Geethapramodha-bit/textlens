@@ -165,3 +165,37 @@ Explored contextual embeddings using a pretrained BERT model.
 - PyTorch
 - Hugging Face Transformers
 - BERT
+
+## Day 7 – AttentionLab: Transformer Representations
+
+Explored Transformer-based NLP using a pretrained BERT model.
+
+### What I learned
+- Transformer tokenization
+- Contextual token representations
+- 768-dimensional BERT representations
+- Comparing token representations using cosine similarity
+- How Transformers help capture relationships between tokens
+- Introduction to the role of attention in Transformer models
+
+### Workflow
+
+Text
+↓
+BERT Tokenizer
+↓
+Tokens
+↓
+Transformer
+↓
+Contextual Representations
+↓
+768-dimensional vectors
+↓
+Cosine Similarity
+
+### Technologies
+- Python
+- PyTorch
+- Hugging Face Transformers
+- BERT
